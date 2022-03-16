@@ -1,0 +1,15 @@
+{
+  "name": "backend_preHackathon",
+  "version": "1.0.0",
+  "description": "Here is the name of the project that touched us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.6"
+  }
+}
